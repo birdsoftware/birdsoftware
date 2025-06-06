@@ -1,7 +1,11 @@
 <span align="center">
-  <img src="header2.png" alt="Header"/>
+  <img src="header![header](https://github.com/user-attachments/assets/dc7c03c8-3b43-49fd-a5e3-fca74c25b704)
+.png" alt="Header"/>
 </span>
-
+<div style="background-color:#14d9f6; padding:100px 20px; text-align:center; color:white; font-family: 'Helvetica Neue', sans-serif;">
+  <h1 style="font-family: 'Yesteryear', cursive; font-size:48px; margin-bottom: 10px;">Brian Bird</h1>
+  <p style="font-size:18px; letter-spacing:6px; margin:0;">MOBILE APP DEVELOPER</p>
+</div>
 **Hey! Here's a bit about me:**
 <br />
 🛠️ Versatile Software Engineer with 11+ Years of End-to-End Cross-Platform App Development <br />
@@ -36,6 +40,7 @@
 🛜 Computer Networks <br />
 ℹ️ Database Management Systems <br />
 
+![header](https://github.com/user-attachments/assets/dd26db3c-a6b6-4170-9fc4-d6fd279a24d0)
 
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
