@@ -16,6 +16,9 @@
 ## Current Projects
 
 🛠️ <b>Independent Contractor for UNLV<b />, responsible for developing a web-based application to collect and visualize weather station data from local golf courses. The platform calculates evapotranspiration (ET₀) rates to optimize irrigation schedules, helping Las Vegas homeowners conserve water through more efficient landscape watering practices.
+<br /><br />
+🛠️ Conference Navigator App – Custom interactive map and session manager used by 20,000+ attendees annually. 
+<a href="https://www.viticusgroup.org/mobile-app">Conference App</a>
 <br />
 
 ## Tools and Skills
