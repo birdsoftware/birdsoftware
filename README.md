@@ -1,6 +1,5 @@
 <span align="center">
-  <img src="header![header](https://github.com/user-attachments/assets/dc7c03c8-3b43-49fd-a5e3-fca74c25b704)
-.png" alt="Header"/>
+  <img src="header.png" alt="Header"/>
 </span>
 <div style="background-color:#14d9f6; padding:100px 20px; text-align:center; color:white; font-family: 'Helvetica Neue', sans-serif;">
   <h1 style="font-family: 'Yesteryear', cursive; font-size:48px; margin-bottom: 10px;">Brian Bird</h1>
