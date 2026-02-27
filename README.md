@@ -3,7 +3,7 @@
 </span>
 <div style="background-color:#14d9f6; padding:100px 20px; text-align:center; color:white; font-family: 'Helvetica Neue', sans-serif;">
   <h1 style="font-family: 'Yesteryear', cursive; font-size:48px; margin-bottom: 10px;">Brian Bird</h1>
-  <p style="font-size:18px; letter-spacing:6px; margin:0;">MOBILE APP DEVELOPER</p>
+  <p style="font-size:18px; letter-spacing:6px; margin:0;">Full-Stack & Embedded Systems Architect</p>
 </div>
 **Hey! Here's a bit about me:**
 <br />
